@@ -1,7 +1,7 @@
-# Hi there, I'm Dinosaur Oatmeal 👋
+# Hi there, my name's Will 👋
 
 ## About Me
-I'm attending university with a passion for artificial intelligence in the healthcare industry.
+I'm attending The University of Texas - Arlington with a passion for artificial intelligence in the healthcare industry.
 
 ## My Work
 - 🔭 I’m currently taking classes about Algorithms, Linear Algebra, Operating Systems, and Software Engineering
