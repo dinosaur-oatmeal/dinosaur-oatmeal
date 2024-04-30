@@ -1,11 +1,10 @@
 # Hi there, my name's Will 👋
 
 ## About Me
-I'm attending the University of Texas-Arlington with a passion for artificial intelligence in the healthcare industry.
+I'm attending the University of Texas-Arlington to receive my B.S. in Computer Science
 
 ## My Work
-- 🔭 I’m currently taking classes focused on Algorithms, Data Structures, Linear Algebra, Operating Systems, and Software Engineering
-- 🖥️ I’m currently learning C, Java, and Python
+- 🖥️ I’m currently learning C and Java
 - 🤖 I can be found helping run OpenAI's online communities in my free time
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love animal photography and have been published!
