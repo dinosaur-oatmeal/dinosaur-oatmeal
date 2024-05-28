@@ -4,7 +4,7 @@
   Undergraduate student at The University of Texas-Arlington to receive my B.S. in Computer Science
 </p>
 
-- 🤖 &nbsp;Primarily working in Java and C on Windows and UNIX machines\
+- 🤖 &nbsp;Primarily working in Java and C on Windows and UNIX machines
 - 🖥️ &nbsp;[Senior Moderator for OpenAI's Official Discord Community](https://discord.gg/openai)
 - ⚡ &nbsp;Fun fact: I love animal photography and have been published!
 
