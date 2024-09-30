@@ -16,12 +16,18 @@
 
 ### 🛠 Languages, Tools, Development Environments, and File Management
 
+
 #### Programming Languages:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=ffdd54)
 ![Haskell](https://img.shields.io/badge/Haskell-%235e5086.svg?style=flat&logo=haskell&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
+
+#### Markup and Styling:
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&logo=latex&logoColor=white)
 
 #### Libraries and Development Tools:
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
