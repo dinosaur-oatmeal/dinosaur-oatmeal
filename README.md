@@ -10,7 +10,7 @@
 - 🤖 &nbsp; Leading Engagement Initiatives @ OpenAI.
 - 📢 &nbsp; Outreach Officer for the Association of Computing Machinery (ACM).
 - 💻 &nbsp; Experienced in Java and C, working across Windows and UNIX environments.
-- 🌱 &nbsp; Developing skills in Python, SQL (MySQL), and exploring functional programming with Haskell.
+- 🌱 &nbsp; Developing skills in Python and SQL (MySQL).
 - 📸 &nbsp; Fun fact: I love animal photography and have been published!
 
 ---
@@ -22,7 +22,6 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=ffdd54)
-![Haskell](https://img.shields.io/badge/Haskell-%235e5086.svg?style=flat&logo=haskell&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 
 #### Markup and Styling:
