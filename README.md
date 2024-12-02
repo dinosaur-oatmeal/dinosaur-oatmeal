@@ -9,8 +9,8 @@
 
 - 🤖 &nbsp; Leading Engagement Initiatives @ OpenAI.
 - 📢 &nbsp; Outreach Officer for the Association of Computing Machinery (ACM).
-- 💻 &nbsp; Experienced in Java and C, working across Windows and UNIX environments.
-- 🌱 &nbsp; Developing skills in Python and SQL (MySQL).
+- 💻 &nbsp; Experienced in Java, C, Python, and SQL, working across Windows and UNIX environments.
+- 🌱 &nbsp; Practicing functional programming with Elm.
 - 📸 &nbsp; Fun fact: I love animal photography and have been published!
 
 ---
