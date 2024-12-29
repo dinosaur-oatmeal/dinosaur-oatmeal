@@ -30,19 +30,18 @@
   <img src="https://img.shields.io/badge/Elm-%23060F8F.svg?style=flat&logo=elm&logoColor=white" alt="Elm"/>
 </p>
 
-**Libraries & Frameworks:**
+**Machine Learning and Data Analysis**
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-%230089F5.svg?style=flat&logo=matplotlib&logoColor=white alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/MediaPipe-%23FF5722.svg?style=flat&logo=google&logoColor=white" alt="MediaPipe"/>
+  <img src="https://img.shields.io/badge/Matplotlib-%230089F5.svg?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/MediaPipe-%23FF5722.svg?style=flat&logo=mediapipe&logoColor=white" alt="MediaPipe" title="MediaPipe"/>
   <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/tkinter-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="tkinter"/>
 </p>
 
-**Databases & Tools:**
+**Database Tools:**
 <p>
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/>
@@ -57,6 +56,8 @@
 
 **Other Tools & Utilities:**
 <p>
+  <img src="https://img.shields.io/badge/tkinter-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="tkinter"/>
+  <img src="https://img.shields.io/badge/Pillow-blue?logo=python&logoColor=white" alt="Pillow"/>
   <img src="https://img.shields.io/badge/Maven-%23C71A36.svg?style=flat&logo=apachemaven&logoColor=white" alt="Maven"/>
   <img src="https://img.shields.io/badge/JUnit-%2325A162.svg?style=flat&logo=junit5&logoColor=white" alt="JUnit"/>
   <img src="https://img.shields.io/badge/JSON-%23000000.svg?style=flat&logo=json&logoColor=white" alt="JSON"/>
@@ -71,7 +72,7 @@
   <img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=flat&logo=windows&logoColor=white" alt="Windows"/>
   <img src="https://img.shields.io/badge/UNIX-%23FCC624.svg?style=flat&logo=unix&logoColor=black" alt="UNIX"/>
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=flat&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
   <img src="https://img.shields.io/badge/JGrasp-%234479A1.svg?style=flat&logo=java&logoColor=white" alt="JGrasp"/>
   <img src="https://img.shields.io/badge/IDLE-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="IDLE"/>
 </p>
@@ -81,9 +82,7 @@
   <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 ---
 
