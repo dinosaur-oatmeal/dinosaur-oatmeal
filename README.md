@@ -10,7 +10,7 @@
 
 ---
 
-## **A BIT ABOUT ME**
+### **A Bit About Me**
 - 💻 Experienced in Python, Java, C, Elm, and SQL across Windows and UNIX environments
 - 🤖 Leading Engagement Initiatives @ **OpenAI**
 - 🍎 Operating Systems **Teaching Assitant** at UT-Arlington
