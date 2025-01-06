@@ -10,11 +10,12 @@
 
 ---
 
-**Current Roles & Fun Fact:**
+## **A BIT ABOUT ME**
+- 💻 Experienced in Python, Java, C, Elm, and SQL across Windows and UNIX environments
 - 🤖 Leading Engagement Initiatives @ **OpenAI**
+- 🍎 Operating Systems **Teaching Assitant** at UT-Arlington
 - 📢 Outreach Officer for the **Association of Computing Machinery (ACM)**
-- 💻 Experienced in Python, Java, C, and SQL across Windows and UNIX environments
-- 🌱 Currently exploring **functional programming** in **Elm**
+- 🌱 Currently building an **educational platform** for algorithms and data structures
 - 📸 Fun fact: I love animal photography & have been published!
 
 ---
@@ -26,8 +27,8 @@
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=ffdd54" style="height: 40px;" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" style="height: 40px;" alt="Java"/>
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" style="height: 40px;" alt="C"/>
-  <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=flat&logo=postgresql&logoColor=white" style="height: 40px;" alt="SQL"/>
   <img src="https://img.shields.io/badge/Elm-%23060F8F.svg?style=flat&logo=elm&logoColor=white" style="height: 40px;" alt="Elm"/>
+  <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=flat&logo=postgresql&logoColor=white" style="height: 40px;" alt="SQL"/>
 </p>
 
 **Machine Learning and Data Analysis:**
