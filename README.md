@@ -46,6 +46,7 @@
 <p style="display: flex; flex-wrap: wrap; gap: 15px;">
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white" style="height: 30px;" alt="MySQL"/>
   <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat&logo=sqlite&logoColor=white" style="height: 30px;" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" style="height: 30px;" alt="MongoDB"/>
 </p>
 
 **Markup & Styling:**
@@ -73,6 +74,7 @@
   <img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=flat&logo=windows&logoColor=white" style="height: 30px;" alt="Windows"/>
   <img src="https://img.shields.io/badge/UNIX-%23FCC624.svg?style=flat&logo=unix&logoColor=black" style="height: 30px;" alt="UNIX"/>
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white" style="height: 30px;" alt="VSCode"/>
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" style="height: 30px;" alt="Docker"/>
   <img src="https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=flat&logo=jupyter&logoColor=white" style="height: 30px;" alt="Jupyter Notebook"/>
   <img src="https://img.shields.io/badge/JGrasp-%234479A1.svg?style=flat&logo=java&logoColor=white" style="height: 30px;" alt="JGrasp"/>
   <img src="https://img.shields.io/badge/IDLE-%233776AB.svg?style=flat&logo=python&logoColor=white" style="height: 30px;" alt="IDLE"/>
