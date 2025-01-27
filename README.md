@@ -60,6 +60,7 @@
 
 **Other Tools & Utilities:**
 <p style="display: flex; flex-wrap: wrap; gap: 15px;">
+  <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat&logo=fastapi&logoColor=white" style="height: 30px;" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/tkinter-%233776AB.svg?style=flat&logo=python&logoColor=white" style="height: 30px;" alt="tkinter"/>
   <img src="https://img.shields.io/badge/Pillow-blue?logo=python&logoColor=white" style="height: 30px;" alt="Pillow"/>
   <img src="https://img.shields.io/badge/Maven-%23C71A36.svg?style=flat&logo=apachemaven&logoColor=white" style="height: 30px;" alt="Maven"/>
