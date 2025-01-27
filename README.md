@@ -28,8 +28,10 @@
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" style="height: 40px;" alt="Java"/>
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" style="height: 40px;" alt="C"/>
   <img src="https://img.shields.io/badge/Elm-%23060F8F.svg?style=flat&logo=elm&logoColor=white" style="height: 40px;" alt="Elm"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" style="height: 40px;" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=flat&logo=postgresql&logoColor=white" style="height: 40px;" alt="SQL"/>
 </p>
+
 
 **Machine Learning and Data Analysis:**
 <p style="display: flex; flex-wrap: wrap; gap: 15px;">
