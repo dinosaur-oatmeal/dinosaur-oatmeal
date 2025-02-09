@@ -36,8 +36,10 @@
 **Machine Learning and Data Analysis:**
 <p style="display: flex; flex-wrap: wrap; gap: 15px;">
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white" style="height: 30px;" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-FF0000?style=flat&logo=keras&logoColor=white" style="height: 30px;" alt="Keras"/>
   <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" style="height: 30px;" alt="Scikit-learn"/>
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white" style="height: 30px;" alt="NumPy"/>
+  <br>
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" style="height: 30px;" alt="Pandas"/>
   <img src="https://img.shields.io/badge/Matplotlib-%230089F5.svg?style=flat&logo=matplotlib&logoColor=white" style="height: 30px;" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/MediaPipe-%23FF5722.svg?style=flat&logo=mediapipe&logoColor=white" style="height: 30px;" alt="MediaPipe"/>
@@ -63,28 +65,35 @@
   <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat&logo=fastapi&logoColor=white" style="height: 30px;" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/tkinter-%233776AB.svg?style=flat&logo=python&logoColor=white" style="height: 30px;" alt="tkinter"/>
   <img src="https://img.shields.io/badge/Pillow-blue?logo=python&logoColor=white" style="height: 30px;" alt="Pillow"/>
-  <img src="https://img.shields.io/badge/Maven-%23C71A36.svg?style=flat&logo=apachemaven&logoColor=white" style="height: 30px;" alt="Maven"/>
+  <img src="https://img.shields.io/badge/Apache%20Maven-%23C71A36.svg?style=flat&logo=apachemaven&logoColor=white" style="height: 30px;" alt="Apache Maven"/>
   <img src="https://img.shields.io/badge/JUnit-%2325A162.svg?style=flat&logo=junit5&logoColor=white" style="height: 30px;" alt="JUnit"/>
   <img src="https://img.shields.io/badge/JSON-%23000000.svg?style=flat&logo=json&logoColor=white" style="height: 30px;" alt="JSON"/>
+  <br>
   <img src="https://img.shields.io/badge/AWT-%2300599C.svg?style=flat" style="height: 30px;" alt="AWT"/>
   <img src="https://img.shields.io/badge/Swing-%23F7DF1E.svg?style=flat" style="height: 30px;" alt="Swing"/>
   <img src="https://img.shields.io/badge/GCC-%23D2691E.svg?style=flat&logo=gcc&logoColor=white" style="height: 30px;" alt="GCC"/>
   <img src="https://img.shields.io/badge/GDB-%2300599C.svg?style=flat" style="height: 30px;" alt="GDB"/>
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white" style="height: 30px;" alt="GNU Bash"/>
+  <img src="https://img.shields.io/badge/SVG-%23FFB13B.svg?style=flat&logo=svg&logoColor=white" style="height: 30px;" alt="SVG"/>
+  <img src="https://img.shields.io/badge/GitHub%20Pages-%23121011.svg?style=flat&logo=github&logoColor=white" style="height: 30px;" alt="GitHub Pages"/>
 </p>
 
 **Development Environments:**
 <p style="display: flex; flex-wrap: wrap; gap: 15px;">
   <img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=flat&logo=windows&logoColor=white" style="height: 30px;" alt="Windows"/>
-  <img src="https://img.shields.io/badge/UNIX-%23FCC624.svg?style=flat&logo=unix&logoColor=black" style="height: 30px;" alt="UNIX"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" style="height: 30px;" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/VirtualBox-21416b?style=flat&logo=VirtualBox&logoColor=white" style="height: 30px;" alt="VirtualBox"/>
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white" style="height: 30px;" alt="VSCode"/>
+  <br>
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" style="height: 30px;" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=flat&logo=jupyter&logoColor=white" style="height: 30px;" alt="Jupyter Notebook"/>
+  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white" style="height: 30px;" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/JGrasp-%234479A1.svg?style=flat&logo=java&logoColor=white" style="height: 30px;" alt="JGrasp"/>
   <img src="https://img.shields.io/badge/IDLE-%233776AB.svg?style=flat&logo=python&logoColor=white" style="height: 30px;" alt="IDLE"/>
 </p>
 
 **Version Control:**
 <p>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white" style="height: 30px;" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white" style="height: 30px;" alt="GitHub"/>
 </p>
 
