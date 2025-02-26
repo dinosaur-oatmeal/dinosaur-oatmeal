@@ -11,11 +11,12 @@
 ---
 
 ### **A Bit About Me**
-- 💻 Experienced in Python, Java, C, Elm, JavaScript, and SQL across Windows and Ubuntu environments
+- 🖥️ Focused on coding in Python and C across Windows and Ubuntu environments
 - 🤖 Leading Engagement Initiatives @ **OpenAI**
 - 🍎 Operating Systems **Teaching Assitant** at UT-Arlington
-- 📢 Outreach Officer for the **Association of Computing Machinery (ACM)**
-- 🌱 Currently building an **educational platform** for algorithms and data structures
+- 📢 Outreach Officer for the Association of Computing Machinery (ACM)
+- 💻 Experience Officer for HackUTA 7 (2025)
+- 🌱 Currently building an educational platform for algorithms and data structures
 - 📸 Fun fact: I love animal photography & have been published!
 
 ---
@@ -28,12 +29,12 @@
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" style="height: 40px;" alt="Java"/>
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" style="height: 40px;" alt="C"/>
   <img src="https://img.shields.io/badge/Elm-%23060F8F.svg?style=flat&logo=elm&logoColor=white" style="height: 40px;" alt="Elm"/>
+  <img src="https://img.shields.io/badge/Scala-%23DC322F.svg?style=flat&logo=scala&logoColor=white" style="height: 40px;" alt="Scala"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" style="height: 40px;" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=flat" style="height: 40px;" alt="SQL"/>
 </p>
 
 
-**Machine Learning and Data Analysis:**
+**AI, Data Science, & ML Tools:**
 <p style="display: flex; flex-wrap: wrap; gap: 15px;">
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white" style="height: 30px;" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Keras-FF0000?style=flat&logo=keras&logoColor=white" style="height: 30px;" alt="Keras"/>
@@ -46,12 +47,14 @@
   <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" style="height: 30px;" alt="Scikit-learn"/>
 </p>
 
-**Other Tools & Utilities:**
+**Software Tools & Build Systems:**
 <p style="display: flex; flex-wrap: wrap; gap: 15px;">
   <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat&logo=fastapi&logoColor=white" style="height: 30px;" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/tkinter-%233776AB.svg?style=flat&logo=python&logoColor=white" style="height: 30px;" alt="tkinter"/>
   <img src="https://img.shields.io/badge/Apache%20Maven-%23C71A36.svg?style=flat&logo=apachemaven&logoColor=white" style="height: 30px;" alt="Apache Maven"/>
   <img src="https://img.shields.io/badge/JUnit-%2325A162.svg?style=flat&logo=junit5&logoColor=white" style="height: 30px;" alt="JUnit"/>
+  <img src="https://img.shields.io/badge/JFlex-%23007ACC.svg?style=flat&logo=java&logoColor=white" style="height: 30px;" alt="JFlex"/>
+<img src="https://img.shields.io/badge/CUP-%23FFAE00.svg?style=flat&logo=java&logoColor=white" style="height: 30px;" alt="CUP"/>
   <img src="https://img.shields.io/badge/JSON-%23000000.svg?style=flat&logo=json&logoColor=white" style="height: 30px;" alt="JSON"/>
   <br>
   <img src="https://img.shields.io/badge/AWT-%2300599C.svg?style=flat" style="height: 30px;" alt="AWT"/>
@@ -70,7 +73,7 @@
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" style="height: 30px;" alt="MongoDB"/>
 </p>
 
-**Markup & Styling:**
+**Web & Document Formatting:**
 <p style="display: flex; flex-wrap: wrap; gap: 15px;">
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white" style="height: 30px;" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white" style="height: 30px;" alt="CSS"/>
