@@ -26,8 +26,8 @@
 **Languages:**
 <p style="display: flex; flex-wrap: wrap; gap: 15px;">
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=ffdd54" style="height: 40px;" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" style="height: 40px;" alt="Java"/>
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" style="height: 40px;" alt="C"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" style="height: 40px;" alt="Java"/>
   <img src="https://img.shields.io/badge/Elm-%23060F8F.svg?style=flat&logo=elm&logoColor=white" style="height: 40px;" alt="Elm"/>
   <img src="https://img.shields.io/badge/Scala-%23DC322F.svg?style=flat&logo=scala&logoColor=white" style="height: 40px;" alt="Scala"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" style="height: 40px;" alt="JavaScript"/>
@@ -38,6 +38,7 @@
 <p style="display: flex; flex-wrap: wrap; gap: 15px;">
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white" style="height: 30px;" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Keras-FF0000?style=flat&logo=keras&logoColor=white" style="height: 30px;" alt="Keras"/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white" style="height: 30px;" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white" style="height: 30px;" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Matplotlib-%230089F5.svg?style=flat&logo=matplotlib&logoColor=white" style="height: 30px;" alt="Matplotlib"/>
   <br>
@@ -50,13 +51,15 @@
 **Software Tools & Build Systems:**
 <p style="display: flex; flex-wrap: wrap; gap: 15px;">
   <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat&logo=fastapi&logoColor=white" style="height: 30px;" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Pydantic-%2300B4CC.svg?style=flat&logo=pydantic&logoColor=white" style="height: 30px;" alt="Pydantic"/>
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white" style="height: 30px;" alt="Postman"/>
   <img src="https://img.shields.io/badge/tkinter-%233776AB.svg?style=flat&logo=python&logoColor=white" style="height: 30px;" alt="tkinter"/>
   <img src="https://img.shields.io/badge/Apache%20Maven-%23C71A36.svg?style=flat&logo=apachemaven&logoColor=white" style="height: 30px;" alt="Apache Maven"/>
   <img src="https://img.shields.io/badge/JUnit-%2325A162.svg?style=flat&logo=junit5&logoColor=white" style="height: 30px;" alt="JUnit"/>
   <img src="https://img.shields.io/badge/JFlex-%23007ACC.svg?style=flat&logo=java&logoColor=white" style="height: 30px;" alt="JFlex"/>
-<img src="https://img.shields.io/badge/CUP-%23FFAE00.svg?style=flat&logo=java&logoColor=white" style="height: 30px;" alt="CUP"/>
-  <img src="https://img.shields.io/badge/JSON-%23000000.svg?style=flat&logo=json&logoColor=white" style="height: 30px;" alt="JSON"/>
+  <img src="https://img.shields.io/badge/CUP-%23FFAE00.svg?style=flat&logo=java&logoColor=white" style="height: 30px;" alt="CUP"/>
   <br>
+  <img src="https://img.shields.io/badge/JSON-%23000000.svg?style=flat&logo=json&logoColor=white" style="height: 30px;" alt="JSON"/>
   <img src="https://img.shields.io/badge/AWT-%2300599C.svg?style=flat" style="height: 30px;" alt="AWT"/>
   <img src="https://img.shields.io/badge/Swing-%23F7DF1E.svg?style=flat" style="height: 30px;" alt="Swing"/>
   <img src="https://img.shields.io/badge/GCC-%23D2691E.svg?style=flat&logo=gcc&logoColor=white" style="height: 30px;" alt="GCC"/>
@@ -68,8 +71,9 @@
 
 **Database Tools:**
 <p style="display: flex; flex-wrap: wrap; gap: 15px;">
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white" style="height: 30px;" alt="MySQL"/>
   <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat&logo=sqlite&logoColor=white" style="height: 30px;" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-%23D71F00.svg?style=flat&logo=sqlalchemy&logoColor=white" style="height: 30px;" alt="SQLAlchemy"/>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white" style="height: 30px;" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" style="height: 30px;" alt="MongoDB"/>
 </p>
 
