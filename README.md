@@ -86,7 +86,7 @@ SQLAlchemy
 
 </details>
 
-### **Security & Auth**
+### **Security & Auth:**
 <p>
   <img src="https://img.shields.io/badge/OAuth2-%23007ACC.svg?style=flat&logo=auth0&logoColor=white" style="height: 30px;" alt="OAuth2"/>
   <img src="https://img.shields.io/badge/JWT-%23000000.svg?style=flat&logo=jsonwebtokens&logoColor=white" style="height: 30px;" alt="JWT"/>
