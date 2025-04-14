@@ -21,6 +21,12 @@
 
 ---
 
+## GitHub Activity
+
+[![GitHub Streak](https://streak-stats.vercel.app?user=dinosaur-oatmeal&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
 ## Languages, Libraries, & More
 
 ### **Languages:**
@@ -125,7 +131,7 @@ VS Code, VirtualBox, Jupyter, IDLE, JGrasp
 
 ---
 
-### 📫 Connect with Me
+## 📫 Connect with Me
 
 <div style="text-align: center; margin-top: 20px;">
   <a href="https://dinosaur-oatmeal.github.io/" target="_blank">
