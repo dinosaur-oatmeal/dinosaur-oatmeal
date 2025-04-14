@@ -23,7 +23,7 @@
 
 ## GitHub Activity
 
-[![GitHub Streak](https://streak-stats.vercel.app?user=dinosaur-oatmeal&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.vercel.app?user=dinosaur-oatmeal&hide-border=true)](https://git.io/streak-stats)
 
 ---
 
