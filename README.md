@@ -56,7 +56,7 @@ Elm, Scala, JavaScript
 <details>
 <summary><strong>Also used:</strong></summary>
 
-Pandas, Scikit-learn, Matplotlib, OpenCV, MediaPipe
+Matplotlib | OpenCV | MediaPipe | Pandas | Scikit-learn
 
 </details>
 
@@ -64,7 +64,6 @@ Pandas, Scikit-learn, Matplotlib, OpenCV, MediaPipe
 <p style="display: flex; flex-wrap: wrap; gap: 15px;">
   <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat&logo=fastapi&logoColor=white" style="height: 30px;" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white" style="height: 30px;" alt="Postman"/>
-  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white" style="height: 30px;" alt="GNU Bash"/>
   <img src="https://img.shields.io/badge/Pydantic-%2300B4CC.svg?style=flat&logo=pydantic&logoColor=white" style="height: 30px;" alt="Pydantic"/>
   <img src="https://img.shields.io/badge/Apache%20Maven-%23C71A36.svg?style=flat&logo=apachemaven&logoColor=white" style="height: 30px;" alt="Apache Maven"/>
   <br><sub>Common tools for APIs, automation, and development pipelines.</sub>
@@ -73,7 +72,9 @@ Pandas, Scikit-learn, Matplotlib, OpenCV, MediaPipe
 <details>
 <summary><strong>Also used:</strong></summary>
 
-JUnit, JFlex, CUP, JSON, tkinter, AWT, Swing, GCC, GDB, SVG, GitHub Pages
+Tkinter | JUnit | JSON | JFlex | CUP | AWT | Swing
+<br>
+GNU Bash | GCC | GDB | SVG | GitHub Pages
 
 </details>
 
@@ -125,7 +126,7 @@ SQLAlchemy
 <details>
 <summary><strong>Also used:</strong></summary>
 
-VS Code, VirtualBox, Jupyter, IDLE, JGrasp
+VirtualBox | VS Code | Jupyter | IDLE | JGrasp
 
 </details>
 
