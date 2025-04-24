@@ -97,6 +97,7 @@ SQLAlchemy
 <p>
   <img src="https://img.shields.io/badge/OAuth2-%23007ACC.svg?style=flat&logo=auth0&logoColor=white" style="height: 30px;" alt="OAuth2"/>
   <img src="https://img.shields.io/badge/JWT-%23000000.svg?style=flat&logo=jsonwebtokens&logoColor=white" style="height: 30px;" alt="JWT"/>
+  <img src="https://img.shields.io/badge/Dotenv-%2300C7B7.svg?style=flat&logo=dotenv&logoColor=white" style="height: 30px;" alt="Dotenv"/>
   <br><sub>Used in projects requiring secure access control and user authentication.</sub>
 </p>
 
@@ -120,7 +121,8 @@ SQLAlchemy
   <img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=flat&logo=windows&logoColor=white" style="height: 30px;" alt="Windows"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" style="height: 30px;" alt="Ubuntu"/>
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" style="height: 30px;" alt="Docker"/>
-  <br><sub>Environments and platforms I’ve developed and deployed on.</sub>
+  <img src="https://img.shields.io/badge/Heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white" style="height: 30px;" alt="Heroku"/>
+  <br><sub>Platforms where I develop and deploy real-world applications.</sub>
 </p>
 
 <details>
@@ -129,6 +131,13 @@ SQLAlchemy
 VirtualBox | VS Code | Jupyter | IDLE | JGrasp
 
 </details>
+
+### **APIs, Chatbots, & AI Integrations**
+<p style="display: flex; flex-wrap: wrap; gap: 15px;">
+  <img src="https://img.shields.io/badge/Discord.py-%237289DA.svg?style=flat&logo=discord&logoColor=white" style="height: 30px;" alt="Discord.py"/>
+  <img src="https://img.shields.io/badge/OpenAI-%231A1A1A.svg?style=flat&logo=openai&logoColor=white" style="height: 30px;" alt="OpenAI"/>
+  <br><sub>Platforms I've built chatbots and service integrations with.</sub>
+</p>
 
 ---
 
