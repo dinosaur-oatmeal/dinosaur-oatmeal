@@ -74,7 +74,7 @@ Matplotlib | OpenCV | MediaPipe | Pandas | Scikit-learn
 
 Tkinter | JUnit | JSON | JFlex | CUP | AWT | Swing
 <br>
-GNU Bash | GCC | GDB | SVG | GitHub Pages
+GNU Bash | GCC | GDB | SVG | GitHub Actions | GitHub Pages
 
 </details>
 
