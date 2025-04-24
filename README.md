@@ -135,7 +135,7 @@ VirtualBox | VS Code | Jupyter | IDLE | JGrasp
 ### **APIs, Chatbots, & AI Integrations**
 <p style="display: flex; flex-wrap: wrap; gap: 15px;">
   <img src="https://img.shields.io/badge/Discord.py-%237289DA.svg?style=flat&logo=discord&logoColor=white" style="height: 30px;" alt="Discord.py"/>
-  <img src="https://img.shields.io/badge/OpenAI-%231A1A1A.svg?style=flat&logo=openai&logoColor=white" style="height: 30px;" alt="OpenAI"/>
+          <img src="https://img.shields.io/badge/OpenAI-API-%231A1A1A.svg?style=flat&logo=openai&logoColor=white" style="height: 30px;" alt="OpenAI"/>
   <br><sub>Platforms I've built chatbots and service integrations with.</sub>
 </p>
 
