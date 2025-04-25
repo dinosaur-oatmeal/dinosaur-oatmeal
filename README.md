@@ -14,7 +14,7 @@
 - 🖥️ Focused on coding in Python and C across Windows and Ubuntu environments
 - 🤖 Building Online Communities at **OpenAI**
 - 🚜 2025 AI/ML Computational **Research Intern** at The US Department of Agriculture (USDA)
-- 🍎 Operating Systems **Teaching Assitant** at UT-Arlington
+- 🍎 Operating Systems **Teaching Assistant** at UT-Arlington
 - 📢 Outreach Officer for The Association of Computing Machinery (ACM)
 - 💻 Experience Officer for HackUTA 7 (2025)
 - 🌱 Currently building an educational platform for algorithms and data structures
@@ -51,7 +51,7 @@ Elm, Scala, JavaScript
   <img src="https://img.shields.io/badge/Keras-FF0000?style=flat&logo=keras&logoColor=white" style="height: 30px;" alt="Keras"/>
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white" style="height: 30px;" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white" style="height: 30px;" alt="NumPy"/>
-  <br><sub>Used for ML and math-focused projects.</sub>
+  <br><sub>Used for machine learning and math-focused projects.</sub>
 </p>
 
 <details>
@@ -67,7 +67,7 @@ Matplotlib | OpenCV | MediaPipe | Pandas | Scikit-learn
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white" style="height: 30px;" alt="Postman"/>
   <img src="https://img.shields.io/badge/Pydantic-%2300B4CC.svg?style=flat&logo=pydantic&logoColor=white" style="height: 30px;" alt="Pydantic"/>
   <img src="https://img.shields.io/badge/Apache%20Maven-%23C71A36.svg?style=flat&logo=apachemaven&logoColor=white" style="height: 30px;" alt="Apache Maven"/>
-  <br><sub>Common tools for APIs, automation, and development pipelines.</sub>
+  <br><sub>Common tools for development pipelines.</sub>
 </p>
 
 <details>
