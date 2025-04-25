@@ -12,9 +12,10 @@
 
 ## **A Bit About Me**
 - 🖥️ Focused on coding in Python and C across Windows and Ubuntu environments
-- 🤖 Leading Engagement Initiatives @ **OpenAI**
+- 🤖 Building Online Communities at **OpenAI**
+- 🚜 2025 Computational **Research Intern** at The US Department of Agriculture (USDA)
 - 🍎 Operating Systems **Teaching Assitant** at UT-Arlington
-- 📢 Outreach Officer for the Association of Computing Machinery (ACM)
+- 📢 Outreach Officer for The Association of Computing Machinery (ACM)
 - 💻 Experience Officer for HackUTA 7 (2025)
 - 🌱 Currently building an educational platform for algorithms and data structures
 - 📸 Fun fact: I love animal photography & have been published!
