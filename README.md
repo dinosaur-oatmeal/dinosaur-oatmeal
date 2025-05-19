@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=header" />
 </p>
 
 <h1 align="center">Hi there, I'm Will Maberry (He/Him) 👋</h1>
@@ -12,13 +12,10 @@
 
 ## **A Bit About Me**
 - 🖥️ Focused on coding in Python and C across Windows and Ubuntu environments
-- 🤖 Building Online Communities at **OpenAI**
-- 🚜 Summer 2025 AI/ML **Research Intern** at The US Department of Agriculture (USDA)
-- 📢 Outreach Officer for The Association of Computing Machinery (ACM)
+- 🤖 Building Online Communities @ **OpenAI**
+- 🚜 Summer 2025 AI/ML **Research Intern** @ The US Department of Agriculture (USDA)
+- 🍎 Education Director for The Association of Computing Machinery (ACM)
 - 💻 Experience Officer for HackUTA 7 (2025)
-- 🌱 Currently building an educational platform for algorithms and data structures
-- 📸 Fun fact: I love animal photography & have been published!
-
 ---
 
 ## GitHub Activity
@@ -34,7 +31,7 @@
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=ffdd54" style="height: 40px;" alt="Python"/>
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" style="height: 40px;" alt="C"/>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" style="height: 40px;" alt="Java"/>
-  <br><sub>Languages I use most often for general-purpose development.</sub>
+  <br><sub>Languages I use most often for development.</sub>
 </p>
 
 <details>
@@ -50,7 +47,7 @@ Elm, Scala, JavaScript
   <img src="https://img.shields.io/badge/Keras-FF0000?style=flat&logo=keras&logoColor=white" style="height: 30px;" alt="Keras"/>
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white" style="height: 30px;" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white" style="height: 30px;" alt="NumPy"/>
-  <br><sub>Used for machine learning and math-focused projects.</sub>
+  <br><sub>Used for machine learning and deep learning projects.</sub>
 </p>
 
 <details>
@@ -98,7 +95,7 @@ SQLAlchemy
   <img src="https://img.shields.io/badge/OAuth2-%23007ACC.svg?style=flat&logo=auth0&logoColor=white" style="height: 30px;" alt="OAuth2"/>
   <img src="https://img.shields.io/badge/JWT-%23000000.svg?style=flat&logo=jsonwebtokens&logoColor=white" style="height: 30px;" alt="JWT"/>
   <img src="https://img.shields.io/badge/Dotenv-%2300C7B7.svg?style=flat&logo=dotenv&logoColor=white" style="height: 30px;" alt="Dotenv"/>
-  <br><sub>Used in projects requiring secure access control and user authentication.</sub>
+  <br><sub>Used for secure access control and user authentication.</sub>
 </p>
 
 ### **Web & Document Formatting:**
@@ -106,14 +103,14 @@ SQLAlchemy
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white" style="height: 30px;" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white" style="height: 30px;" alt="CSS"/>
   <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&logo=latex&logoColor=white" style="height: 30px;" alt="LaTeX"/>
-  <br><sub>Technologies for frontend structure and documentation.</sub>
+  <br><sub>Technologies for frontend and documentation.</sub>
 </p>
 
 ### **Version Control:**
 <p>
   <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white" style="height: 30px;" alt="GitHub"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white" style="height: 30px;" alt="Git"/>
-  <br><sub>Tools I use for source management and collaboration.</sub>
+  <br><sub>Tools I use for code management.</sub>
 </p>
 
 ### **Development Environments:**
@@ -122,7 +119,7 @@ SQLAlchemy
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" style="height: 30px;" alt="Ubuntu"/>
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" style="height: 30px;" alt="Docker"/>
   <img src="https://img.shields.io/badge/Heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white" style="height: 30px;" alt="Heroku"/>
-  <br><sub>Platforms where I develop and deploy real-world applications.</sub>
+  <br><sub>Platforms where I develop and deploy applications.</sub>
 </p>
 
 <details>
@@ -136,7 +133,7 @@ VirtualBox | VS Code | Jupyter | IDLE | JGrasp
 <p style="display: flex; flex-wrap: wrap; gap: 15px;">
   <img src="https://img.shields.io/badge/Discord.py-%237289DA.svg?style=flat&logo=discord&logoColor=white" style="height: 30px;" alt="Discord.py"/>
           <img src="https://img.shields.io/badge/OpenAI-API-%231A1A1A.svg?style=flat&logo=openai&logoColor=white" style="height: 30px;" alt="OpenAI"/>
-  <br><sub>Platforms I've built chatbots and service integrations with.</sub>
+  <br><sub>Platforms I've built chatbots with.</sub>
 </p>
 
 ---
@@ -154,5 +151,5 @@ VirtualBox | VS Code | Jupyter | IDLE | JGrasp
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=footer"/>
 </p>
