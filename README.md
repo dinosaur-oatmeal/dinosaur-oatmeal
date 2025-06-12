@@ -67,14 +67,13 @@ Scikit-learn | AutoGluon | OpenCV | MediaPipe
   <img src="https://img.shields.io/badge/Matplotlib-%230076A8.svg?style=flat&logo=python&logoColor=white" style="height: 25px;" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Seaborn-%2300CED1.svg?style=flat&logo=python&logoColor=white" style="height: 25px;" alt="Seaborn"/>
   <img src="https://img.shields.io/badge/SHAP-%23FFDD00.svg?style=flat&logo=plotly&logoColor=black" style="height: 25px;" alt="SHAP"/>
-  <img src="https://img.shields.io/badge/PDP-%23F7DF1E.svg?style=flat&logo=python&logoColor=black" style="height: 25px;" alt="Partial Dependence"/>
 </p>
 <sub>Used to understand models and visualize predictions across time and space.</sub>
 
 <details>
 <summary><strong>Also used:</strong></summary>
 
-TSNE | ConfusionMatrixDisplay | IPyWidgets | ImageIO  
+PDP | TSNE | ConfusionMatrixDisplay | IPyWidgets | ImageIO  
 **Geospatial**: GeoPandas | Shapely | Geemap
 
 </details>
@@ -117,7 +116,7 @@ OAuth2 | JWT | Dotenv
 
 ---
 
-### **🗃Databases**
+### **Databases**
 <p style="display: flex; flex-wrap: wrap; gap: 15px;">
   <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat&logo=sqlite&logoColor=white" style="height: 25px;" alt="SQLite"/>
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white" style="height: 25px;" alt="MySQL"/>
