@@ -56,7 +56,7 @@ Elm, Scala, JavaScript
 <details>
 <summary><strong>Also used:</strong></summary>
 
-Scikit-learn | AutoGluon | OpenCV | MediaPipe
+Scikit-learn | AutoGluon | OpenCV | MediaPipe | Optuna
 
 </details>
 
@@ -73,7 +73,7 @@ Scikit-learn | AutoGluon | OpenCV | MediaPipe
 <details>
 <summary><strong>Also used:</strong></summary>
 
-PDP | TSNE | ConfusionMatrixDisplay | IPyWidgets | ImageIO  
+Folium | IPyWidgets | ImageIO  
 **Geospatial**: GeoPandas | Shapely | Geemap
 
 </details>
@@ -110,7 +110,6 @@ GCC | GDB | GitHub Actions | GitHub Pages
 <details>
 <summary><strong>Also used:</strong></summary>
 
-SlowAPI | Cookie-based auth | Session storage | HTTP headers  
 OAuth2 | JWT | Dotenv
 </details>
 
@@ -127,7 +126,7 @@ OAuth2 | JWT | Dotenv
 <details>
 <summary><strong>Also used:</strong></summary>
 
-SQLAlchemy | JSON | Environment-configured connections
+SQLAlchemy | JSON
 </details>
 
 ---
