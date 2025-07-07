@@ -13,7 +13,7 @@
 ## **A Bit About Me**
 - 🖥️ Focused on coding in Python and C across Windows and Ubuntu environments
 - 🤖 Building Online Communities @ **OpenAI**
-- 🚜 Summer 2025 AI/ML **Research Intern** @ The US Department of Agriculture (USDA)
+- 🚜 Summer 2025 AI/ML **Research Intern** @ The US Department of Agriculture (USDA) Agricultural Research Service (ARS)
 - 🍎 Education Director for The Association of Computing Machinery (ACM)
 - 💻 Experience Officer for HackUTA 7 (2025)
 ---
@@ -37,7 +37,7 @@
 <details>
 <summary><strong>Also used:</strong></summary>
 
-Elm, Scala, JavaScript
+Elm | Scala | JavaScript
 
 </details>
 
@@ -56,7 +56,8 @@ Elm, Scala, JavaScript
 <details>
 <summary><strong>Also used:</strong></summary>
 
-Scikit-learn | AutoGluon | OpenCV | MediaPipe | Optuna
+Imbalanced-learn | Scikit-learn | AutoGluon | Optuna  
+OpenCV | MediaPipe | Google Earth Engine
 
 </details>
 
@@ -80,23 +81,6 @@ Folium | IPyWidgets | ImageIO
 
 ---
 
-### **Software Tools & Build Systems**
-<p style="display: flex; flex-wrap: wrap; gap: 15px;">
-  <img src="https://img.shields.io/badge/Apache%20Maven-%23C71A36.svg?style=flat&logo=apachemaven&logoColor=white" style="height: 25px;" alt="Apache Maven"/>
-  <img src="https://img.shields.io/badge/GNU%20Bash-%234EAA25.svg?style=flat&logo=gnubash&logoColor=white" style="height: 25px;" alt="GNU Bash"/>
-  <img src="https://img.shields.io/badge/JSON-%23000000.svg?style=flat&logo=json&logoColor=white" style="height: 25px;" alt="JSON"/>
-</p>
-<sub>Used for automation, scripting, and building cross-language projects.</sub>
-
-<details>
-<summary><strong>Also used:</strong></summary>
-
-Tkinter | JUnit | JFlex | CUP | AWT | Swing  
-GCC | GDB | GitHub Actions | GitHub Pages
-</details>
-
----
-
 ### **Full-Stack & Backend Development**
 <p style="display: flex; flex-wrap: wrap; gap: 15px;">
   <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat&logo=fastapi&logoColor=white" style="height: 25px;" alt="FastAPI"/>
@@ -111,6 +95,25 @@ GCC | GDB | GitHub Actions | GitHub Pages
 <summary><strong>Also used:</strong></summary>
 
 OAuth2 | JWT | Dotenv
+
+</details>
+
+---
+
+### **Software Tools & Build Systems**
+<p style="display: flex; flex-wrap: wrap; gap: 15px;">
+  <img src="https://img.shields.io/badge/Apache%20Maven-%23C71A36.svg?style=flat&logo=apachemaven&logoColor=white" style="height: 25px;" alt="Apache Maven"/>
+  <img src="https://img.shields.io/badge/GNU%20Bash-%234EAA25.svg?style=flat&logo=gnubash&logoColor=white" style="height: 25px;" alt="GNU Bash"/>
+  <img src="https://img.shields.io/badge/JSON-%23000000.svg?style=flat&logo=json&logoColor=white" style="height: 25px;" alt="JSON"/>
+</p>
+<sub>Used for automation, scripting, and building cross-language projects.</sub>
+
+<details>
+<summary><strong>Also used:</strong></summary>
+
+Tkinter | JUnit | JFlex | CUP | AWT | Swing  
+GCC | GDB | GitHub Actions | GitHub Pages
+
 </details>
 
 ---
@@ -127,7 +130,17 @@ OAuth2 | JWT | Dotenv
 <summary><strong>Also used:</strong></summary>
 
 SQLAlchemy | JSON
+
 </details>
+
+---
+
+### **APIs, Chatbots, & AI Integrations**
+<p style="display: flex; flex-wrap: wrap; gap: 15px;">
+  <img src="https://img.shields.io/badge/Discord.py-%237289DA.svg?style=flat&logo=discord&logoColor=white" style="height: 25px;" alt="Discord.py"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-%231A1A1A.svg?style=flat&logo=openai&logoColor=white" style="height: 25px;" alt="OpenAI API"/>
+</p>
+<sub>Platforms I've built bots or AI integrations with.</sub>
 
 ---
 
@@ -162,15 +175,6 @@ SQLAlchemy | JSON
 VirtualBox | VS Code | Jupyter | IDLE | JGrasp
 
 </details>
-
----
-
-### **APIs, Chatbots, & AI Integrations**
-<p style="display: flex; flex-wrap: wrap; gap: 15px;">
-  <img src="https://img.shields.io/badge/Discord.py-%237289DA.svg?style=flat&logo=discord&logoColor=white" style="height: 25px;" alt="Discord.py"/>
-  <img src="https://img.shields.io/badge/OpenAI_API-%231A1A1A.svg?style=flat&logo=openai&logoColor=white" style="height: 25px;" alt="OpenAI API"/>
-</p>
-<sub>Platforms I've built bots or AI integrations with.</sub>
 
 ---
 
