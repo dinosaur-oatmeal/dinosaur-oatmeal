@@ -167,6 +167,7 @@ SQLAlchemy | JSON
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" style="height: 25px;" alt="Ubuntu"/>
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" style="height: 25px;" alt="Docker"/>
   <img src="https://img.shields.io/badge/Heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white" style="height: 25px;" alt="Heroku"/>
+  <img src="https://img.shields.io/badge/Koyeb-%230050a4.svg?style=flat&logo=koyeb&logoColor=white" style="height: 25px;" alt="Koyeb"/>
 </p>
 
 <details>
