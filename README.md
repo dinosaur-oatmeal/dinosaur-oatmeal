@@ -13,7 +13,7 @@
 ## **A Bit About Me**
 - 🖥️ Focused on coding in Python and C across Windows and Ubuntu environments
 - 🤖 Building Online Communities @ **OpenAI**
-- 🚜 Summer 2025 AI/ML **Research Intern** @ The US Department of Agriculture (USDA) Agricultural Research Service (ARS)
+- 🚜 **AI/ML Disease Researcher** @ The US Department of Agriculture (USDA) Agricultural Research Service (ARS)
 - 🍎 Education Director for The Association of Computing Machinery (ACM)
 - 💻 Experience Officer for HackUTA 7 (2025)
 ---
