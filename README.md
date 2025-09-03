@@ -1,9 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=header" />
 </p>
-
 <h1 align="center">Hi there, I'm Will Maberry (He/Him) 👋</h1>
-
 <p align="center">
   🎓 Undergraduate at <b>The University of Texas at Arlington</b>, pursuing a B.S. in Computer Science.
 </p>
@@ -11,11 +9,15 @@
 ---
 
 ## **A Bit About Me**
-- 🖥️ Aspiring researcher specializing in Python and C on Windows and Ubuntu
-- 🤖 Building Online Communities @ **OpenAI**
-- 🚜 **AI/ML Disease Researcher** @ The US Department of Agriculture (USDA) Agricultural Research Service (ARS)
-- 🍎 Education Director for The Association of Computing Machinery (ACM)
-- 💻 Experience Officer for HackUTA 7 (Fall 2025)
+- 🧬 **Aspiring public health researcher** | Python & C fan (Windows/Ubuntu)
+- 👥 **Building online communities** at _OpenAI_
+- 🥼 **AI/ML disease researcher** at _USDA ARS_
+- 🛰️ **Campus Partner** at _Perplexity_
+- 🧑‍🏫 **Education Director** at _ACM_
+- ✨ **Experience Officer** at _HackUTA_ (Fall 2025)
+
+*Exploring the intersection of AI, health, and community.*
+
 ---
 
 ## GitHub Activity
@@ -56,11 +58,9 @@
 
 <p style="display: flex; flex-wrap: wrap; gap: 15px;">
   <img src="https://img.shields.io/badge/GeoPandas-%23213F7D.svg?style=flat&logo=geopandas&logoColor=white" style="height: 25px;" alt="GeoPandas"/>
+  <img src="https://img.shields.io/badge/Leaflet-%232264BF.svg?style=flat&logo=leaflet&logoColor=white" style="height: 25px;" alt="Leaflet"/>
   <img src="https://img.shields.io/badge/Folium-%231296FA.svg?style=flat&logo=python&logoColor=white" style="height: 25px;" alt="Folium"/>
   <img src="https://img.shields.io/badge/Geemap-%23009E6A.svg?style=flat&logo=none" style="height: 25px;" alt="Geemap"/>
-  <img src="https://img.shields.io/badge/Leaflet-%232264BF.svg?style=flat&logo=leaflet&logoColor=white" style="height: 25px;" alt="Leaflet"/>
-</p>
-<p style="display: flex; flex-wrap: wrap; gap: 15px;">
   <img src="https://img.shields.io/badge/Matplotlib-%230076A8.svg?style=flat&logo=python&logoColor=white" style="height: 25px;" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Seaborn-%2300CED1.svg?style=flat&logo=python&logoColor=white" style="height: 25px;" alt="Seaborn"/>
 </p>
@@ -134,7 +134,7 @@
   <img src="https://img.shields.io/badge/Koyeb-%230050a4.svg?style=flat&logo=koyeb&logoColor=white" style="height: 25px;" alt="Koyeb"/>
 </p>
 
-### APIs, Chatbots, & Integrations
+### Chatbots, & Integrations
 
 <p style="display: flex; flex-wrap: wrap; gap: 15px;">
   <img src="https://img.shields.io/badge/OpenAI_API-%231A1A1A.svg?style=flat&logo=openai&logoColor=white" style="height: 25px;" alt="OpenAI API"/>
@@ -147,10 +147,6 @@
 <div style="text-align: center; margin-top: 20px;">
   <a href="https://dinosaur-oatmeal.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20My%20Website-%234285F4.svg?&style=flat" alt="My Website" style="height: 40px;"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/will-maberry/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="My LinkedIn" style="height: 40px; margin-left: 10px;"/>
   </a>
 </div>
 
