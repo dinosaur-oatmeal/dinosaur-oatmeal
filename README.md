@@ -9,14 +9,14 @@
 ---
 
 ## **A Bit About Me**
-- 🧬 **Aspiring public health researcher** | Python & C fan (Windows/Ubuntu)
+- 🧬 **Aspiring computational public health researcher** | Python & C fan (Windows/Ubuntu)
+- 🥼 **AI/ML researcher** at _USDA ARS_
 - 👥 **Building online communities** at _OpenAI_
-- 🥼 **AI/ML disease researcher** at _USDA ARS_
 - 🛰️ **Campus Partner** at _Perplexity_
 - 🧑‍🏫 **Education Director** at _ACM_
 - ✨ **Experience Officer** at _HackUTA_ (Fall 2025)
 
-*Exploring the intersection of AI, health, and community.*
+*Experienced in applying machine learning to public-good research, accessibility, and STEM education.*
 
 ---
 
@@ -30,12 +30,12 @@
 
 <p style="display: flex; flex-wrap: wrap; gap: 15px;">
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=ffdd54" style="height: 35px;" alt="Python"/>
+    <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" style="height: 35px;" alt="C"/>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" style="height: 35px;" alt="Java"/>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" style="height: 35px;" alt="C"/>
 </p>
 <details>
   <summary><strong>Also used:</strong></summary>
-  Elm | Scala | JavaScript
+  JavaScript | Elm | Scala
 </details>
 
 ### Machine Learning & Data Science
@@ -73,11 +73,10 @@
 
 <p style="display: flex; flex-wrap: wrap; gap: 15px;">
   <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat&logo=fastapi&logoColor=white" style="height: 25px;" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Pydantic-%2300B4CC.svg?style=flat&logo=pydantic&logoColor=white" style="height: 25px;" alt="Pydantic"/>
-  <img src="https://img.shields.io/badge/Uvicorn-%23000000.svg?style=flat&logo=uvicorn&logoColor=white" style="height: 25px;" alt="Uvicorn"/>
-  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white" style="height: 25px;" alt="Flask"/>
   <img src="https://img.shields.io/badge/Dash-%23E1BEE7.svg?style=flat&logo=plotly&logoColor=white" style="height: 25px;" alt="Dash"/>
-  <img src="https://img.shields.io/badge/Jinja2-%23B41717.svg?style=flat&logo=jinja&logoColor=white" style="height: 25px;" alt="Jinja2"/>
+  <img src="https://img.shields.io/badge/Pydantic-%2300B4CC.svg?style=flat&logo=pydantic&logoColor=white" style="height: 25px;" alt="Pydantic"/>
+    <img src="https://img.shields.io/badge/Jinja2-%23B41717.svg?style=flat&logo=jinja&logoColor=white" style="height: 25px;" alt="Jinja2"/>
+  <img src="https://img.shields.io/badge/Uvicorn-%23000000.svg?style=flat&logo=uvicorn&logoColor=white" style="height: 25px;" alt="Uvicorn"/>
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white" style="height: 25px;" alt="Postman"/>
 </p>
 <details>
@@ -110,28 +109,19 @@
   SQLAlchemy | JSON
 </details>
 
-### Tools & DevOps
+### DevOps & Deploytment
 
 <p style="display: flex; flex-wrap: wrap; gap: 15px;">
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" style="height: 25px;" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Apache%20Maven-%23C71A36.svg?style=flat&logo=apachemaven&logoColor=white" style="height: 25px;" alt="Maven"/>
-  <img src="https://img.shields.io/badge/GNU%20Bash-%234EAA25.svg?style=flat&logo=gnubash&logoColor=white" style="height: 25px;" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white" style="height: 25px;" alt="Git"/>
-  <br/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white" style="height: 25px;" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/GitHub%20Pages-%237C3AE1.svg?style=flat&logo=github&logoColor=white" style="height: 25px;" alt="GitHub Pages"/>
-  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white" style="height: 25px;" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/VirtualBox-%23018CDC.svg?style=flat&logo=virtualbox&logoColor=white" style="height: 25px;" alt="VirtualBox"/>
-  <img src="https://img.shields.io/badge/JUnit-%23D13434.svg?style=flat&logo=junit5&logoColor=white" style="height: 25px;" alt="JUnit"/>
-</p>
-
-### Deployment Platforms
-
-<p style="display: flex; flex-wrap: wrap; gap: 15px;">
-  <img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=flat&logo=windows&logoColor=white" style="height: 25px;" alt="Windows"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" style="height: 25px;" alt="Ubuntu"/>
   <img src="https://img.shields.io/badge/Heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white" style="height: 25px;" alt="Heroku"/>
   <img src="https://img.shields.io/badge/Koyeb-%230050a4.svg?style=flat&logo=koyeb&logoColor=white" style="height: 25px;" alt="Koyeb"/>
+  <br/>
+  <img src="https://img.shields.io/badge/GNU%20Bash-%234EAA25.svg?style=flat&logo=gnubash&logoColor=white" style="height: 25px;" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white" style="height: 25px;" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub%20Pages-%237C3AE1.svg?style=flat&logo=github&logoColor=white" style="height: 25px;" alt="GitHub Pages"/>
+  <img src="https://img.shields.io/badge/Maven-%23C71A36.svg?style=flat&logo=apachemaven&logoColor=white" style="height: 25px;" alt="Maven"/>
+  <img src="https://img.shields.io/badge/JUnit-%23D13434.svg?style=flat&logo=junit5&logoColor=white" style="height: 25px;" alt="JUnit"/>
 </p>
 
 ### Chatbots, & Integrations
