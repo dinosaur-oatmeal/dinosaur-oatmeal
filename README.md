@@ -9,14 +9,13 @@
 ---
 
 ## **A Bit About Me**
-- 🧬 **Aspiring computational public health researcher** | Python & C fan (Windows/Ubuntu)
-- 🥼 **AI/ML researcher** at _USDA ARS_
+- 🧬 **Aspiring computational public health researcher** | Python & C fan
+- 🥼 **Researching viral disease spread** at _USDA ARS_
 - 👥 **Building online communities** at _OpenAI_
-- 🛰️ **Campus Partner** at _Perplexity_
-- 🧑‍🏫 **Education Director** at _ACM_
-- ✨ **Experience Officer** at _HackUTA_ (Fall 2025)
+- 🛰️ **Empowering college students** at _Perplexity_
+- 🍎 **Leading education initiatives** at _ACM @ UTA_
 
-*Experienced in applying machine learning to public-good research, accessibility, and STEM education.*
+*Dedicated to advancing AI for good through public research and student empowerment.*
 
 ---
 
@@ -73,9 +72,10 @@
 
 <p style="display: flex; flex-wrap: wrap; gap: 15px;">
   <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat&logo=fastapi&logoColor=white" style="height: 25px;" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white" style="height: 25px;" alt="Flask"/>
   <img src="https://img.shields.io/badge/Dash-%23E1BEE7.svg?style=flat&logo=plotly&logoColor=white" style="height: 25px;" alt="Dash"/>
   <img src="https://img.shields.io/badge/Pydantic-%2300B4CC.svg?style=flat&logo=pydantic&logoColor=white" style="height: 25px;" alt="Pydantic"/>
-    <img src="https://img.shields.io/badge/Jinja2-%23B41717.svg?style=flat&logo=jinja&logoColor=white" style="height: 25px;" alt="Jinja2"/>
+  <img src="https://img.shields.io/badge/Jinja2-%23B41717.svg?style=flat&logo=jinja&logoColor=white" style="height: 25px;" alt="Jinja2"/>
   <img src="https://img.shields.io/badge/Uvicorn-%23000000.svg?style=flat&logo=uvicorn&logoColor=white" style="height: 25px;" alt="Uvicorn"/>
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white" style="height: 25px;" alt="Postman"/>
 </p>
