@@ -9,13 +9,11 @@
 ---
 
 ## **A Bit About Me**
-- 🧬 **Aspiring computational public health researcher** | Python & C fan
-- 🥼 **Researching viral disease spread** at _USDA ARS_
+- 🧬 **Aspiring computational epidemiologist** | Python & C fan
+- 🥼 **Researching Highly Pathogenic Avian Influenza (HPAI) transmission** at _USDA ARS_
 - 👥 **Building online communities** at _OpenAI_
 - 🛰️ **Empowering college students** at _Perplexity_
 - 🍎 **Leading education initiatives** at _ACM @ UTA_
-
-*Dedicated to advancing AI for good through public research and student empowerment.*
 
 ---
 
@@ -48,9 +46,9 @@
 </p>
 <details>
   <summary><strong>Also used:</strong></summary>
-  Scikit-learn | Imbalanced-learn | AutoGluon | Optuna
+  Scikit-learn | Imbalanced-learn | AutoGluon
   <br/>
-  OpenCV | MediaPipe | XGBoost | LightGBM | SHAP
+  Optuna | OpenCV | MediaPipe | SHAP
 </details>
 
 ### Geospatial & Visualization
@@ -59,13 +57,11 @@
   <img src="https://img.shields.io/badge/GeoPandas-%23213F7D.svg?style=flat&logo=geopandas&logoColor=white" style="height: 25px;" alt="GeoPandas"/>
   <img src="https://img.shields.io/badge/Leaflet-%232264BF.svg?style=flat&logo=leaflet&logoColor=white" style="height: 25px;" alt="Leaflet"/>
   <img src="https://img.shields.io/badge/Folium-%231296FA.svg?style=flat&logo=python&logoColor=white" style="height: 25px;" alt="Folium"/>
-  <img src="https://img.shields.io/badge/Geemap-%23009E6A.svg?style=flat&logo=none" style="height: 25px;" alt="Geemap"/>
   <img src="https://img.shields.io/badge/Matplotlib-%230076A8.svg?style=flat&logo=python&logoColor=white" style="height: 25px;" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-%2300CED1.svg?style=flat&logo=python&logoColor=white" style="height: 25px;" alt="Seaborn"/>
 </p>
 <details>
   <summary><strong>Also used:</strong></summary>
-  Shapely | ImageIO | Google Earth Engine
+  Shapely | ImageIO | Google Earth Engine | Geemap | Seaborn
 </details>
 
 ### Backend & APIs
@@ -73,10 +69,8 @@
 <p style="display: flex; flex-wrap: wrap; gap: 15px;">
   <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat&logo=fastapi&logoColor=white" style="height: 25px;" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white" style="height: 25px;" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Dash-%23E1BEE7.svg?style=flat&logo=plotly&logoColor=white" style="height: 25px;" alt="Dash"/>
   <img src="https://img.shields.io/badge/Pydantic-%2300B4CC.svg?style=flat&logo=pydantic&logoColor=white" style="height: 25px;" alt="Pydantic"/>
   <img src="https://img.shields.io/badge/Jinja2-%23B41717.svg?style=flat&logo=jinja&logoColor=white" style="height: 25px;" alt="Jinja2"/>
-  <img src="https://img.shields.io/badge/Uvicorn-%23000000.svg?style=flat&logo=uvicorn&logoColor=white" style="height: 25px;" alt="Uvicorn"/>
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white" style="height: 25px;" alt="Postman"/>
 </p>
 <details>
