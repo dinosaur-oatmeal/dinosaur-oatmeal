@@ -1,56 +1,42 @@
-<h1 align="center">Hi there, I’m Will Maberry</h1>
+# Hi there, I’m Will Maberry
 
-<p align="center">
-Computational epidemiology · disease forecasting · interpretable ML
-</p>
+`COMPUTATIONAL EPIDEMIOLOGY` // `DISEASE FORECASTING` // `INTERPRETABLE ML`
 
 ---
 
-## What I work on
+### [01] IDENTITY: USDA_ARS
+I am a Computer Science undergraduate at **The University of Texas at Arlington (UTA)** and a **Research Assistant** with the **USDA Agricultural Research Service (ARS)**.
 
-I’m currently a Computer Science undergraduate at **The University of Texas at Arlington (UTA)**
-and a **Research Assistant with the USDA Agricultural Research Service (ARS)**, where I am
-developing a county-scale early-warning system for **Highly Pathogenic Avian Influenza (HPAI, H5N1)**.
-
-My work focuses on:
-
-- **Spatiotemporal forecasting under extreme imbalance** (~1% positives)
-- **Leakage-safe evaluation** (walk-forward validation, strict temporal ordering)
-- **Interpretability & diagnostics** (calibration curves, error profiling, prevalence effects)
+I engineer national-scale early-warning pipelines for **Highly Pathogenic Avian Influenza (HPAI, H5N1)**.
 
 ---
 
-## Technical areas
-
-**Programming Languages**
-- Python, C, Java  
-
-**Machine Learning**
-- Time-series modeling, imbalanced datasets, and output calibration
-- Scikit-learn, PyTorch / TensorFlow, Imb-learn
-- SHAP, K-means/PCA clustering, prevalence-bias
-
-**Geospatial & Visualization**
-- GeoPandas, Folium, Matplotlib
-
-**Backend System Design**
-- FastAPI, Docker, GitHub Actions
+### [02] RESEARCH_INTEREST: DISEASE_FORECASTING
+My work focuses on machine learning (ML) pipelines for infectious disease modeling:
+* **Forecasting:** Spatiotemporal modeling under extreme class imbalance (~1% prevalence).
+* **Integrity:** Leakage-safe evaluation via walk-forward validation and temporal ordering.
+* **Auditability:** System diagnostics through SHAP, Ternary Confusion Matrices, and Log-Scale Calibration.
 
 ---
 
-## Beyond Research
-- **Engagement Manager** @ OpenAI
-- **Education Director** @ ACM UTA
-- **Teaching Assistant** @ Operating Systems UTA
-- **CSE Student Advisory Council** @ UTA CSE Department
+### [03] TECH_APPENDIX
+
+| SECTOR | STACK / METHODOLOGY |
+| :--- | :--- |
+| **LANGS** | Python, C, Java |
+| **ML_CORE** | Scikit-learn, PyTorch, TensorFlow, Imbalanced-learn |
+| **DIAGNOSTICS** | SHAP, K-means / PCA, Prevalence-Bias Analysis |
+| **GEOSPATIAL** | GeoPandas, Folium, Matplotlib |
+| **BACKEND** | FastAPI, Docker, GitHub Actions |
 
 ---
 
-## Links
-
-- Website: https://www.willmaberry.com
-- LinkedIn: https://www.linkedin.com/in/will-maberry/
-- Resume/CV: available on my site
-- Interests: computational epidemiology, biosurveillance, interpretable ML
-
+### [04] FIELD_EXPERIENCE
+* **OpenAI:** Engagement Manager
+* **UTA CSE:** Operating Systems TA & Student Advisory Council
+* **ACM UTA:** Education Director
+  
 ---
+
+### [05] LINKS
+[**Website**](https://www.willmaberry.com) • [**LinkedIn**](https://www.linkedin.com/in/will-maberry/) • [**Resume/CV**](https://www.willmaberry.com/files/Will_Maberry_Resume.pdf)
