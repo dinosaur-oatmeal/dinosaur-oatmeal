@@ -17,3 +17,5 @@ My work focuses on machine learning pipelines for infectious disease modeling:
 
 ### Links
 [**Website**](https://www.willmaberry.com) • [**LinkedIn**](https://www.linkedin.com/in/will-maberry/) • [**Resume/CV**](https://www.willmaberry.com/files/Will_Maberry_Resume.pdf)
+
+<sub>Private repositories contain schoolwork and/or unpublished research.</sub>
