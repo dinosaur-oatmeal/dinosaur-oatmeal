@@ -16,10 +16,10 @@ In Fall 2026, I will attend **Mississippi State University** to pursue an M.S. i
 
 My work sits at the intersection of machine learning and public health, focused on building operational forecasting systems and rare event models under real-world constraints.
 
-* **Forecasting Systems:** Designing end-to-end spatiotemporal machine learning pipelines that generate forward-looking outbreak risk from environmental and geospatial data.
-* **Rare Event Detection:** Modeling outbreaks with extremely low prevalence (~0.01%), prioritizing recall and early warning over naive accuracy.
-* **Evaluation Under Reality Constraints:** Strict time-aware validation (walk-forward, no leakage) to preserve true forecasting constraints.
-* **Interpretability for Decision Support:** Using calibration, SHAP, and dimensionality analysis to translate model outputs into actionable risk tiers.
+* **National-Scale Scope**: Developing a national-scale county-month HPAI forecasting framework using environmental, agricultural, and geospatial data.
+* **Forecasting Systems**: Implementing graph-based spatiotemporal machine learning models over county adjacency structure to capture cross-county disease dynamics.
+* **Evaluation Under Real Constraints**: Engineering leakage-safe forecasting infrastructure with forward-only data truncation, synthetic target-month feature generation, persisted forecast artifacts, and monthly backtesting.
+* **Interpretability for Decision Support**: Designing a dashboard with interactive county risk maps, translating modeling outputs into biosurveillance insights for non-technical audiences.
 
 ---
 
