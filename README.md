@@ -4,11 +4,11 @@
 
 ### About Me
 
-I build **machine learning systems for infectious disease forecasting**.
+Machine learning researcher focused on **computational epidemiology, biosurveillance, and spatiotemporal forecasting systems**.
 
-I'm a Computer Science undergraduate at **The University of Texas at Arlington (UTA)** and a Research Assistant with the **USDA Agricultural Research Service (ARS)**, where I am developing a **national-scale early-warning system for Highly Pathogenic Avian Influenza (H5N1, HPAI)**.
+Currently a Research Assistant with the **USDA Agricultural Research Service (ARS)** developing forward-looking county-month forecasting systems for **Highly Pathogenic Avian Influenza (HPAI)** across the conterminous United States.
 
-In Fall 2026, I will attend **Mississippi State University** to pursue an M.S. in Veterinary and Biomedical Science, with a concentration in Computational Biology.
+Incoming M.S. student in **Veterinary & Biomedical Science (Computational Biology)** at **Mississippi State University** beginning Fall 2026.
 
 ---
 
